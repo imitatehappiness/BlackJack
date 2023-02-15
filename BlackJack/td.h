@@ -14,7 +14,6 @@
 #include <QTime>
 #include <QCoreApplication>
 
-
 class TD
 {
 public:
