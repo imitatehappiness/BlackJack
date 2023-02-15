@@ -5,6 +5,7 @@ enum Action{Hit = 1 /*еще*/, Stick  = 2/*хватит*/};
 enum TDSarsaParam{Episode, Lambda, LinearEpisode, LinearLambda};
 #define DEBUG_PRINT
 
+
 struct State{
     int cardDiler;
     int sumAgent;

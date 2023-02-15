@@ -1,6 +1,7 @@
 #ifndef BLACKJACK_H
 #define BLACKJACK_H
 
+
 #include <QMainWindow>
 #include <QDebug>
 #include <stdio.h>

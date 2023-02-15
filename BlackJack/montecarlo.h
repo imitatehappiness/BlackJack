@@ -14,6 +14,7 @@
 #include <QTime>
 #include <QCoreApplication>
 
+
 class MonteCarlo
 {
 public:

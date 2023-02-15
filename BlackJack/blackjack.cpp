@@ -1,6 +1,7 @@
 #include "blackjack.h"
 #include "ui_blackjack.h"
 
+
 int COUNT_GAME = 10000; /* if  TDSarsaParam == Lambda || LinearLambda => COUNT_GAME = 11000 else COUNT_GAME = 10000; */
 double LAMBDA_TD = 0;
 using namespace QtDataVisualization;

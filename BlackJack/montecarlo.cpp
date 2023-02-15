@@ -3,6 +3,7 @@
 const float N0 = 500;
 const float nA = 2;
 
+
 bool gameNotOverMonteCarlo;
 int  WINMC = 0, LOSEMC = 0, DRAWMC = 0;
 
